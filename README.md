@@ -23,8 +23,8 @@ The project consists of the following files:
 1. Clone the repository:
 
    ```bash
-   git clone <repository_url>
-   cd <repository_directory>
+   git clone https://github.com/X0rD3v1L/gRPC-rust.git
+   cd gRPC-rust/
    ```
 
 2. Install dependencies:
